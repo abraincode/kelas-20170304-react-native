@@ -1,0 +1,3 @@
+rootProject.name = 'kelas_react_native'
+
+include ':app'
